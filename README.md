@@ -1,0 +1,1 @@
+# SQL-Satis-Veri-Analizi
